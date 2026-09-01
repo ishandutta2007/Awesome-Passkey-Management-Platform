@@ -34,99 +34,30 @@ Disclaimer
 
 SaaS/Hosted Platforms
 
-Dashlane Business
-
-Enterprise password and credential management platform supporting passkey storage and management alongside SSO, SCIM, administrative controls, activity logging, and credential security features. Dashlane supports saving and using passkeys for compatible websites and applications. 
-Dashlane Support
-+2
-Dashlane
-+2
-
-1Password Business
-
-Enterprise password-management platform increasingly focused on passwordless authentication, passkeys, secure credential sharing, access governance, and workforce security.
-
-Bitwarden Enterprise
-
-Enterprise credential-management platform with open-source foundations, self-hosting options for many deployments, passkey support, vault sharing, SSO integrations, and administrative controls.
-
-HYPR
-
-Enterprise identity assurance and passwordless authentication platform focused on phishing-resistant authentication, device identity, workforce access, and passwordless security.
-
-Auth0 Passkeys
-
-Customer Identity and Access Management platform providing passkey and WebAuthn capabilities alongside social login, MFA, enterprise federation, and developer APIs.
-
-Hanko Cloud
-
-Hosted authentication and user-management platform focused on modern authentication, including passkeys, passwords, MFA, social login, SAML SSO, and privacy-oriented deployment options. 
-GitHub
-+1
-
-Descope
-
-Customer and workforce identity platform providing visual authentication flows, passwordless login, passkeys, MFA, federation, authorization, and developer integrations.
-
-Stytch
-
-Developer-focused authentication platform supporting passwordless authentication, passkeys, biometrics, OTP, OAuth, session management, and B2B identity workflows.
-
-Yubico Enterprise
-
-Enterprise authentication ecosystem centered around hardware security keys and phishing-resistant authentication, including FIDO2/WebAuthn and passkey-compatible authentication workflows.
-
-Keeper Enterprise
-
-Enterprise password-management and privileged credential platform supporting secure vaults, credential sharing, administrative controls, secrets management, and passwordless technologies.
-
-Okta Customer Identity
-
-Enterprise identity platform offering passwordless authentication, WebAuthn, federation, MFA, lifecycle management, and customer identity capabilities.
-
-Microsoft Entra ID
-
-Enterprise identity and access management ecosystem supporting passwordless authentication methods, passkeys/FIDO2 security keys, conditional access, and workforce identity management.
-
-Cisco Duo
-
-Enterprise authentication and MFA platform providing passwordless and phishing-resistant authentication options alongside device trust and access policy controls.
-
-Ping Identity
-
-Enterprise identity platform supporting passwordless authentication, federation, adaptive access, customer identity, and WebAuthn-based authentication.
-
-OneLogin
-
-Cloud identity and access management platform offering SSO, MFA, directory integration, lifecycle management, and passwordless authentication capabilities.
-
-ForgeRock
-
-Enterprise identity platform ecosystem for large-scale workforce and customer identity deployments, including passwordless and FIDO/WebAuthn authentication capabilities.
-
-Beyond Identity
-
-Passwordless identity platform emphasizing phishing-resistant authentication, cryptographic device credentials, and enterprise access security.
-
-Transmit Security
-
-Identity security and customer authentication platform supporting passwordless authentication, identity orchestration, fraud reduction, and passkey-oriented experiences.
-
-Passage
-
-Passwordless authentication platform from 1Password focused on passkeys and developer-friendly authentication experiences.
-
-WorkOS
-
-Enterprise-ready developer platform for authentication and identity integrations, including SSO, directory synchronization, organizations, and modern authentication infrastructure.
-
-Clerk
-
-Developer authentication platform providing hosted user management, session handling, social login, enterprise SSO, and passwordless authentication features.
-
-Magic
-
-Passwordless authentication platform offering email, social, and Web3-oriented authentication infrastructure for applications.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limit |
+|---|---|---|---|
+| **Dashlane Business** | Enterprise password and credential management platform supporting passkey storage and management alongside SSO, SCIM, administrative controls, activity logging, and credential security features. | $8 / user / month (billed annually) | 14-day free trial (up to 10 seats, no credit card required) |
+| **1Password Business** | Enterprise password-management platform increasingly focused on passwordless authentication, passkeys, secure credential sharing, access governance, and workforce security. | $8.99 / user / month (or $24.95/mo Teams plan) | 14-day free trial (full features) |
+| **Bitwarden Enterprise** | Enterprise credential-management platform with open-source foundations, self-hosting options, passkey support, vault sharing, SSO integrations, and administrative controls. | $6 / user / month (billed annually) | Free forever for 2 users; 14-day free trial for Enterprise |
+| **HYPR** | Enterprise identity assurance and passwordless authentication platform focused on phishing-resistant authentication, device identity, workforce access, and passwordless security. | $3 / user / month (Identity Assurance Access tier) | 30-day evaluation free trial / demo upon request |
+| **Auth0 Passkeys** | Customer Identity and Access Management platform providing passkey and WebAuthn capabilities alongside social login, MFA, enterprise federation, and developer APIs. | $35 / month (B2C Essentials starting tier) | Free forever up to 25,000 MAUs |
+| **Hanko Cloud** | Hosted authentication and user-management platform focused on modern authentication, including passkeys, passwords, MFA, social login, SAML SSO, and privacy-oriented deployment options. | $29 / month (Pro plan) | Free forever up to 10,000 MAUs (up to 2 production projects) |
+| **Descope** | Customer and workforce identity platform providing visual authentication flows, passwordless login, passkeys, MFA, federation, authorization, and developer integrations. | $249 / month (Pro plan) | Free forever up to 7,500 MAUs (up to 10 tenants) |
+| **Stytch** | Developer-focused authentication platform supporting passwordless authentication, passkeys, biometrics, OTP, OAuth, session management, and B2B identity workflows. | $0 / month pay-as-you-go ($0.005/MAU after free tier) | Free forever up to 10,000 MAUs (includes 5 SSO connections) |
+| **Yubico Enterprise** | Enterprise authentication ecosystem centered around hardware security keys and phishing-resistant authentication, including FIDO2/WebAuthn and passkey-compatible authentication workflows. | $45 / key (hardware) or ~$2.50 / user / month (YubiEnterprise Subscription, min 500 users) | Interactive online demo (demo.yubico.com) & sales-assisted enterprise PoC evaluation |
+| **Keeper Enterprise** | Enterprise password-management and privileged credential platform supporting secure vaults, credential sharing, administrative controls, secrets management, and passwordless technologies. | $6 / user / month (billed annually) | 14-day free trial (unlimited seats) |
+| **Okta Customer Identity** | Enterprise identity platform offering passwordless authentication, WebAuthn, federation, MFA, lifecycle management, and customer identity capabilities. | $35 / month (Essentials tier) | Free forever up to 25,000 MAUs |
+| **Microsoft Entra ID** | Enterprise identity and access management ecosystem supporting passwordless authentication methods, passkeys/FIDO2 security keys, conditional access, and workforce identity management. | $6 / user / month (Entra ID P1 plan) | Free forever basic cloud directory up to 50,000 MAUs / objects |
+| **Cisco Duo** | Enterprise authentication and MFA platform providing passwordless and phishing-resistant authentication options alongside device trust and access policy controls. | $3 / user / month (Essentials tier) | Free forever up to 10 users (or 30-day free trial) |
+| **Ping Identity** | Enterprise identity platform supporting passwordless authentication, federation, adaptive access, customer identity, and WebAuthn-based authentication. | $3 / user / month (PingOne Workforce Essential tier) | 30-day free trial (PingOne platform evaluation) |
+| **OneLogin** | Cloud identity and access management platform offering SSO, MFA, directory integration, lifecycle management, and passwordless authentication capabilities. | $2 / user / month (Advanced SSO plan) | 30-day free trial |
+| **ForgeRock** | Enterprise identity platform ecosystem for large-scale workforce and customer identity deployments, including passwordless and FIDO/WebAuthn authentication capabilities. | $3 / user / month (via Ping Identity platform; or ~$35,000/year enterprise package) | 30-day free trial (via Ping Identity platform) |
+| **Beyond Identity** | Passwordless identity platform emphasizing phishing-resistant authentication, cryptographic device credentials, and enterprise access security. | $6 / user / month (Workforce Advanced) or $0.016 / MAU | Free forever Developer Plan up to 10,000 MAUs |
+| **Transmit Security** | Identity security and customer authentication platform supporting passwordless authentication, identity orchestration, fraud reduction, and passkey-oriented experiences. | $50,000 / year (~$0.08 - $0.10 / MAU for Mosaic platform) | Free Developer Sandbox environment (API/SDK explorer) |
+| **Passage** | Passwordless authentication platform from 1Password focused on passkeys and developer-friendly authentication experiences. | $249 / month (Growth plan at $0.05/MAU prior to retirement) | Free forever up to 1,000 MAUs (service retired Jan 2026) |
+| **WorkOS** | Enterprise-ready developer platform for authentication and identity integrations, including SSO, directory synchronization, organizations, and modern authentication infrastructure. | $125 / connection / month (User management free up to 1M MAUs) | Free forever up to 1,000,000 MAUs for AuthKit user management |
+| **Clerk** | Developer authentication platform providing hosted user management, session handling, social login, enterprise SSO, and passwordless authentication features. | $25 / month (Pro plan base price) | Free forever up to 10,000 MAUs (or up to 50,000 MAUs on standard free tier) |
+| **Magic** | Passwordless authentication platform offering email, social, and Web3-oriented authentication infrastructure for applications. | $99 / month (Startup plan up to 2,500 MAWs) | Free forever up to 1,000 Monthly Active Wallets / Users |
 
 Open-Source GitHub Projects
 
