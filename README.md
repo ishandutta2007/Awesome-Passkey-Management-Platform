@@ -76,7 +76,7 @@ The open-source ecosystem provides powerful building blocks for organizations th
 
 Below is a curated list of active open-source identity, WebAuthn, FIDO2, and passkey projects, **sorted descending by GitHub Star Count**:
 
-| Repository | Stars | Description | Ecosystem / Stack |
+| Repository | Github_Stars | Description | Ecosystem / Stack |
 |---|---|---|---|
 | **Vaultwarden** | [![GitHub_Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social)](https://github.com/dani-garcia/vaultwarden/stargazers) | Unofficial Bitwarden-compatible lightweight server written in Rust, widely used for self-hosted passkey and credential vault deployments. | Rust, SQLite / Postgres |
 | **PocketBase** | [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social)](https://github.com/pocketbase/pocketbase/stargazers) | Open-source real-time backend in a single file with built-in authentication, user management, and OAuth2 integration. | Go, SQLite |
@@ -111,7 +111,7 @@ Below is a curated list of active open-source identity, WebAuthn, FIDO2, and pas
 
 Developers looking to integrate native WebAuthn and Passkey capabilities directly into their application backends can leverage these open-source libraries:
 
-| Library | Stars | Description | Language |
+| Library | Github_Stars | Description | Language |
 |---|---|---|---|
 | **SimpleWebAuthn** | [![GitHub_Stars](https://img.shields.io/github/stars/MasterNodeUX/SimpleWebAuthn?style=social)](https://github.com/MasterNodeUX/SimpleWebAuthn/stargazers) | Comprehensive TypeScript/Node.js library suite for building WebAuthn and Passkey registration and authentication. | TypeScript |
 | **privacyIDEA** | [![GitHub_Stars](https://img.shields.io/github/stars/privacyidea/privacyidea?style=social)](https://github.com/privacyidea/privacyidea/stargazers) | Open-source multi-factor authentication system supporting WebAuthn, TOTP, YubiKey, and enterprise identity stores. | Python |
